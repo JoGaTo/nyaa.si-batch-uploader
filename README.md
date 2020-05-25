@@ -9,7 +9,7 @@
 
 <hr />
 <p>
-	<span style="font-size: 20px;"><strong>&nbsp;How to use</strong></span>
+	<strong><span style="font-size: 20px;">&nbsp;How to use</span></strong>
 </p>
 
 <p>
