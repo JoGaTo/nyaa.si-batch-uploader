@@ -153,4 +153,4 @@ function doSingleUpload(form, headers, sukebei) {
             });
             return Promise.reject(new Error(errors.join('<br>')));
         });
-}
+} 
