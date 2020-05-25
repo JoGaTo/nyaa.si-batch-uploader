@@ -11,3 +11,4 @@ IF NOT EXIST node_modules (
 CALL npm run start
 
 @ECHO ON
+
