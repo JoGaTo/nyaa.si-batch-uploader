@@ -8,9 +8,9 @@
 </p>
 
 <hr />
-<p>
+<h2>
 	<strong><span style="font-size: 20px;">&nbsp;How to use</span></strong>
-</p>
+</h2>
 
 <p>
 	<a href="https://ibb.co/c3sd3RX"><img alt="nyaa" border="0" src="https://i.ibb.co/dMHyMXJ/nyaa.png" /></a>
