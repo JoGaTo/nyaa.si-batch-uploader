@@ -3,6 +3,8 @@
 
 </h2>
 
+<p><b> *As of this moment, when you're uploading a torrent(s) you'll get this error "request to https://nyaa.si/api/upload failed, reason: certificate has expired", thus preventing you to upload. I am currently finding someone capable of fixing this error...dunno how long that'll take </b></p>
+
 <p>
 	<span style="font-size: 14px;">This software was <em>NOT</em> made by me but by a guy in sadpanda in 2017 named <em>health901</em>, whom I have not heard back from him, so majority of the credits goes to him.</span>
 </p>
@@ -93,7 +95,7 @@
 </p>
 <hr />
 <h2>
-	<strong><span style="font-size:20px;">Download</span></strong>
+	<strong><span style="font-size:20px;">Onedrive Download (doesn't have the modified package-lock.json)</span></strong>
 </h2>
 	
 <p>
