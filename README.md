@@ -94,11 +94,5 @@
 <p>
 	* <strong>Is it possible for a NyaaPantsu mass uploader? </strong>Well, both NyaaPantsu and Nyaa.si are basically the same, with the exception that NyaaPantsu included what language(s) the torrent contains, tags to AniDB, DLSite, etc., and upload to Nyaa.si/AniDex/Tokyotosho, but I think it can be done. Not possibly by me (because I&#39;m not a coder) but if there&#39;s someone out there capable of giving it a try, or even take this software and modify it to work for NyaaPantsu, please do so!
 </p>
-<hr />
-<h2>
-	<strong><span style="font-size:20px;">Onedrive Download (doesn't have the modified package-lock.json)</span></strong>
-</h2>
-	
-<p>
-	<a href="https://1drv.ms/u/s!ApfLKE3kTsOgggtIXz8Dy5MLAW-C">Nyaa.si Batch Uploader</a>
-</p>	
+
+
