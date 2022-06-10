@@ -3,7 +3,8 @@
 
 </h2>
 
-<p><b> *As of this moment, when you're uploading a torrent(s) you'll get this error "request to https://nyaa.si/api/upload failed, reason: certificate has expired", thus preventing you to upload. I am currently finding someone capable of fixing this error...dunno how long that'll take </b></p>
+<p><b> *As of this moment, when you're uploading a torrent(s) you'll get this error "request to https://nyaa.si/api/upload failed, reason: certificate has expired", thus preventing you to upload. <s>I am currently finding someone capable of fixing this error...dunno how long that'll take </b></s>
+2.0-alpha has an insecure code added but now you can upload without this error above. This is s temp fix until I find out a way to update the lastest node for this thing or start asking for experienced people who know what they're doing</p>
 
 <p>
 	<span style="font-size: 14px;">This software was <em>NOT</em> made by me but by a guy in sadpanda in 2017 named <em>health901</em>, whom I have not heard back from him, so majority of the credits goes to him.</span>
